@@ -1,0 +1,2 @@
+Writing into the Java file
+Welcome to file handling in Java
