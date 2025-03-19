@@ -1,3 +1,5 @@
+// Sequence container
+
 #include<iostream>
 #include<vector>
 using namespace std;
