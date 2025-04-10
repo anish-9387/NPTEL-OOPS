@@ -1,0 +1,12 @@
+# Results
+Quadratic Equation Roots:
+Root 1: 2
+Root 2: 1
+
+Mean Calculation:
+Mean: 20.3
+
+Matrix Addition Result:
+10 10 10 
+10 10 10 
+10 10 10 
